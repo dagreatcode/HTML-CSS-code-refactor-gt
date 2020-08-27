@@ -11,5 +11,5 @@ Here is the before
 <img src="./assets/images/ScreenShot.png" alt="ScreenShot" />
 
 And Here is the after
-<img src="./assets/images/ScreenShot.png" alt="ScreenShot2" />
+<img src="./assets/images/ScreenShot2.png" alt="ScreenShot2" />
 
