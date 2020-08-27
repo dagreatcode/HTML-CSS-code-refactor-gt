@@ -13,3 +13,4 @@ Here is the before
 And Here is the after
 <img src="./assets/images/ScreenShot2.png" alt="ScreenShot2" />
 
+Just spaced Out for best practice
