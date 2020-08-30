@@ -13,6 +13,7 @@ The ending just needed a >.
 6th thing i did was fixed on the seo. there was a bug at the end of line 15. so i deleated the n.
 7th I also addad a #id attribute inside of class="" to to match inside the SEO link, in the href element.
 8th i cleaned up css codes to look better
+9th thing i found was that a few classes was defined the wrong was. liek search engin optimization and online-reputation-management needed to be a class.
 
 
 Here is the before
