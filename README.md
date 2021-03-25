@@ -1,5 +1,5 @@
 This website is ready
-<a href="https://dagreatcode.github.io/code-refactor-gt/">Link to Site</a>
+<a href="https://dagreatcode.github.io/HTML-CSS-code-refactor-gt/">Link to Site</a>
 
 
 # Make sure you view this image for better understanding.
